@@ -6,7 +6,7 @@ import Alert from "./Component/Main/alert";
 import Sectionone from "./Component/Main/Sectionone";
 import Sectiontwo from "./Component/Main/Sectiontwo";
 import Sectionthree from "./Component/Main/Sectionthree";
-import SectionFour from "./Component/main/sectionfour";
+import SectionFour from "./Component/main/Sectionfour";
 import Sectionfive from "./Component/Main/Sectionfive";
 import Sectionsix from "./Component/Main/Sectionsix";
 // import Footer from "./Component/Footer/Footer";
