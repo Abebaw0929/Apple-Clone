@@ -2,7 +2,7 @@ import "./commonResources/css/styles.css";
 import "./commonResources/css/bootstrap.css";
 import React from "react";
 // import Header from "./Component/Header/header";
-import Alert from "./Component/Main/Alert";
+import Alert from "./Component/Main/alert";
 import Sectionone from "./Component/Main/Sectionone";
 import Sectiontwo from "./Component/Main/SectiontwO";
 import Sectionthree from "./Component/Main/Sectionthree";
