@@ -4,7 +4,7 @@ import React from "react";
 // import Header from "./Component/Header/header";
 import Alert from "./Component/Main/alert";
 import Sectionone from "./Component/Main/Sectionone";
-import Sectiontwo from "./Component/Main/SectiontwO";
+import Sectiontwo from "./Component/Main/Sectiontwo";
 import Sectionthree from "./Component/Main/Sectionthree";
 import SectionFour from "./Component/main/sectionfour";
 import Sectionfive from "./Component/Main/Sectionfive";
